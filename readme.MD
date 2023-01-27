@@ -1,1 +1,2 @@
-Official Repo for OnlyStars.wiki
+# onlystars
+Official site for Onlystars.wiki.  
